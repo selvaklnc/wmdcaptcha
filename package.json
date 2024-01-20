@@ -1,0 +1,27 @@
+{
+  "name": "wmdcaptcha",
+  "version": "1.0.0",
+  "description": "Website security and form protection with powerfull captcha tool named wmdcaptcha from Wikimint Developer.",
+  "main": "wmdcaptcha.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wikimint/wmdCaptcha.git"
+  },
+  "keywords": [
+    "captcha",
+    "wmdcaptcha",
+    "website",
+    "security",
+    "form",
+    "protection"
+  ],
+  "author": "Selvakumaran Krishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wikimint/wmdCaptcha/issues"
+  },
+  "homepage": "https://developer.wikimint.com/p/wmdcaptcha.html"
+}
