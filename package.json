@@ -1,6 +1,6 @@
 {
   "name": "wmdcaptcha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Website security and form protection with powerfull captcha tool named wmdcaptcha from Wikimint Developer.",
   "main": "wmdcaptcha.js",
   "scripts": {
